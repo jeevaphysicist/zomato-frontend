@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c6f5384.css",
+    "main.js": "/static/js/main.274227e9.js",
+    "static/js/787.9c166d28.chunk.js": "/static/js/787.9c166d28.chunk.js",
+    "static/media/food2.png": "/static/media/food2.1a42a552d37242d07656.png",
+    "static/media/food21.png": "/static/media/food21.c7e26688e2dc09d40f7a.png",
+    "static/media/breakfast.jpg": "/static/media/breakfast.99e4e26fe035c0bcf88d.jpg",
+    "static/media/drinks.png": "/static/media/drinks.4be9358aac608dc81476.png",
+    "static/media/dinner.png": "/static/media/dinner.a5b66e4f63fe4bdb839f.png",
+    "static/media/snacks.png": "/static/media/snacks.9e94afe20436aaf07641.png",
+    "static/media/nightlife.png": "/static/media/nightlife.fab3a66b32a59954f9a5.png",
+    "static/media/lunch.jpg": "/static/media/lunch.5a224c3c7b497636f045.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/index.html",
+    "main.1c6f5384.css.map": "/static/css/main.1c6f5384.css.map",
+    "main.274227e9.js.map": "/static/js/main.274227e9.js.map",
+    "787.9c166d28.chunk.js.map": "/static/js/787.9c166d28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c6f5384.css",
+    "static/js/main.274227e9.js"
+  ]
+}
