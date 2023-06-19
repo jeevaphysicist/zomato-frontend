@@ -131,7 +131,7 @@ export default function Restaurantdetails() {
            .then(response=>response.json());
 
         const options={
-                      key :"rzp_test_",
+                      key :"rzp_test_BsGSW4LpkffpL9",
                       amount: orderData.amount,
                       order_id: orderData.id,
                       curreny:orderData.curreny,

@@ -36,15 +36,8 @@ export default class Quickseacrhes extends Component {
       
        <div className="row">
            <p className="col-12 col-lg-12 text-start " style={{color:"#8C96AB",fontSize:"26px"}}>Discover restaurants by type of meal</p>
-           <div>Google ads</div>
-           <amp-ad width="100vw" height="320"
-            type="adsense"
-            data-ad-client="ca-pub-3014712559913211"
-            data-ad-slot="3384260289"
-            data-auto-format="rspv"
-            data-full-width="">
-           <div overflow=""></div>
-          </amp-ad>
+           
+          
       </div>  
 
       <div className="row text-center">
