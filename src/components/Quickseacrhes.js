@@ -31,7 +31,7 @@ export default class Quickseacrhes extends Component {
       <div>
          <div className="container">
       <div className=" row pt-5">
-        <p className="col-12 quick text-start" style={{color:"blue"}}>Quick Searches </p>
+        <p className="col-12 quick text-start">Quick Searches </p>
        </div>
       
        <div className="row">
